@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+pandas
+numpy
+statsmodels
+nest_asyncio
+pyngrok
